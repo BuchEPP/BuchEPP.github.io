@@ -7,4 +7,4 @@ Zusätzliches Material zu  Buch ist [hier](https://github.com/BuchEPP/Auflage4) 
 
 
 Beispiel für Abbildung:
-![Poisson Verteilung](0106_Poisson_Verteilung.pdf "Poisson")
+![ATLAS](0106_ATLAS.png)
