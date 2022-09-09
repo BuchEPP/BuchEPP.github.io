@@ -7,10 +7,7 @@ Zusätzliches Material zu  Buch ist [hier](https://github.com/BuchEPP/Auflage4) 
 
 
 Beispiel für Formel:
-       $$
-        \frac{dN}{dx} = 2\pi\alpha z^2\int^{\lambda_{2}}_{\lambda_{1}}(1-\frac{1}{n(\lambda)^2\beta^2})\frac{d\lambda}{\lambda^2}
-       
-		$$
+$\frac{dN}{dx} = 2\pi\alpha z^2\int^{\lambda_{2}}_{\lambda_{1}}(1-\frac{1}{n(\lambda)^2\beta^2})\frac{d\lambda}{\lambda^2}$
     
     
 Beispiel für Tabelle:
