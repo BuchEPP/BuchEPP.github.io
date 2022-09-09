@@ -6,16 +6,20 @@ Springer Verlag
 
 ### Authoren:
 #### Autor1
-- Lebenslaiúf 
+- Lebenslauf 
 #### Autor2
+- Lebenslauf
 
-### 
+### Erläuterungen zum Buch 
 
+sfdgsdfgsdfgsdfg
+sdfgsdfgsdfgs
+sdfgsdfgsdfg
+sdfgsdfgsdfbsdbxvv
+yxvxyvxvb
 
-
-Zusätzliches Material zu  Buch ist [hier](https://github.com/BuchEPP/Auflage4) verfügbar.
-
-
-Beispiel für Abbildung:
+### Calculations with python/sympy
+ The very popular language Python is part of the curriculum at many universities. Sympy is a computer algebra programme based on Python. Used with the jupyter notebook it provides an elegant frame for doing computer algebra. Please consult the Python and Jupyter pages for installing these programmes on your system.
+On this [GitHub link](https://github.com/BuchEPP/Auflage4) we provide Jupyter notebooks  additional material for a detailed calculations and solutions to the exercises. The python programming is kept on purpose an a simple level, such that beginners in programming have an easy start.  
 
 
