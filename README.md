@@ -3,4 +3,4 @@
 Authoren:
 
 
-Zusätzliches Material zu  Buch ist [hier](https://BuchEPP.github.io/Auflage4) verfügbar.
+Zusätzliches Material zu  Buch ist [hier](https://github.com/BuchEPP/Auflage4) verfügbar.
