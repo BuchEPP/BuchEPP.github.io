@@ -1,6 +1,16 @@
 # Buch Elementarteilchenphysik, 4. Auflage
 
-Authoren:
+![ATLAS](0106_ATLAS.png)
+
+Springer Verlag
+
+### Authoren:
+#### Autor1
+- Lebenslaiúf 
+#### Autor2
+
+### 
+
 
 
 Zusätzliches Material zu  Buch ist [hier](https://github.com/BuchEPP/Auflage4) verfügbar.
@@ -8,4 +18,4 @@ Zusätzliches Material zu  Buch ist [hier](https://github.com/BuchEPP/Auflage4) 
 
 Beispiel für Abbildung:
 
-![ATLAS](0106_ATLAS.png)
+
