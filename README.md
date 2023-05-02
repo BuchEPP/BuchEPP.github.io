@@ -2,7 +2,8 @@
 
 ![ATLAS](0106_ATLAS.png)
 
-Springer Verlag
+Book is written in German
+Springer .... 
 
 ### Authors
 #### Christoph Berger
