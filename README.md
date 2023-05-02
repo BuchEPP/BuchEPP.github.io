@@ -6,6 +6,8 @@ Book is written in German
 
 Springer .... 
 
+Further information and code: [GitHub link](https://github.com/BuchEPP/Buch)
+
 ### Authors
 #### Christoph Berger
 - Born 1939, doctorate Bonn 1968, habilitation 1973 Aachen, Germany. From 1974 to 2004
