@@ -6,7 +6,7 @@ Book is written in German
 
 Springer .... 
 
-Further information, python code and notebooks: [GitHub link](https://github.com/BuchEPP/Buch)
+Further information, python code and notebooks: [GitHub code](https://github.com/BuchEPP/Buch)
 
 ### Authors
 #### Christoph Berger
