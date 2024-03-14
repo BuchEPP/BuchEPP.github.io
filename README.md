@@ -1,13 +1,14 @@
 # Book Elementarteilchenphysik, 4th edition
 
+Page is 'work in progress'. 
+
 ![ATLAS](0106_ATLAS.png)
 
 Book is written in German
-
-Springer .... 
+Springer
 
 Further information, python code and notebooks: [GitHub code](https://github.com/BuchEPP/Buch)
-(will be public soon)
+(will be public as soon as the book is published)
 
 ### Authors
 #### Christoph Berger
