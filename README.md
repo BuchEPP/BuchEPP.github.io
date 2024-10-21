@@ -9,7 +9,7 @@ Book is written in German
 Springer Verlag
 
 Further information, python code and notebooks: [GitHub code](https://github.com/BuchEPP/Buch)
-(will be public as soon as the book is published)
+
 
 ### Authors
 #### Christoph Berger
