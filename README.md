@@ -14,7 +14,7 @@ Further information, python code and notebooks: [GitHub code](https://github.com
 ### Authors
 #### Christoph Berger
 - Born 1939, doctorate Bonn 1968, habilitation 1973 Aachen, Germany. From 1974 to 2004
-Various research stays at DESY, CERN and Cornell University.
+various research stays at DESY, CERN and Cornell University.
 #### Gregor Herten 
 - Born in 1955, doctorate in 1983, professor at M.I.T., Cambridge, USA, from 1986 to 1992, and professor of physics at the University of Freiburg, Germany,  since 1992. Research stays at DESY and CERN.
 
