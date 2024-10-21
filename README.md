@@ -1,10 +1,9 @@
 # Book Elementarteilchenphysik, 4th edition
 
-### Page is 'work in progress'. 
 
 ![ATLAS](0106_ATLAS.png)
 
-Book is written in German
+The book is written in German
 
 Springer Verlag
 
