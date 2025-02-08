@@ -7,7 +7,7 @@ The book is written in German
 
 Springer Verlag
 
-Further information, python code and notebooks: [GitHub code](https://github.com/BuchEPP/Buch)
+Further information, corrections, python code and notebooks: [GitHub code](https://github.com/BuchEPP/Buch)
 
 
 ### Authors
