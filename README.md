@@ -12,7 +12,7 @@ Further information, python code and notebooks: [GitHub code](https://github.com
 
 ### Authors
 #### Christoph Berger
-- BChristoph Berger, born in 1939, studied in Darmstadt and Bonn and received his doctorate in Bonn in 1968. He carried out post-doctoral research at Cornell University. After his habilitation in Aachen in 1973, he was Professor of High Energy Physics at RWTH Aachen University from 1974 to 2004, with research visits to DESY and CERN. His main research activities are elastic and inelastic electron-proton scattering, electron-photon scattering and neutrino reactions at low energies.
+- Christoph Berger, born in 1939, studied in Darmstadt and Bonn and received his doctorate in Bonn in 1968. He carried out post-doctoral research at Cornell University. After his habilitation in Aachen in 1973, he was Professor of High Energy Physics at RWTH Aachen University from 1974 to 2004, with research visits to DESY and CERN. His main research activities are elastic and inelastic electron-proton scattering, electron-photon scattering and neutrino reactions at low energies.
 
 #### Gregor Herten 
 - Gregor Herten, born in 1955, studied at RWTH Aachen University and was awarded his doctorate there in 1983. He then carried out post-doctoral research at CERN. After a professorship at the Massachusetts Institute of Technology (1986-1992), he was Professor of Experimental Physics at the University of Freiburg from 1992 to 2023. His research activities deal with the measurement of reactions in 𝑒-𝑒+ annihilation and in proton-proton collisions as well as the development of precise detectors for muons.
