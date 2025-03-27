@@ -1,7 +1,7 @@
 # Book Elementarteilchenphysik, 4th edition
 
 
-![ATLAS](0106_ATLAS.png)
+![Book Cover](BuchEPP.png)
 
 The book is written in German
 
