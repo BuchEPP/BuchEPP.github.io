@@ -27,12 +27,13 @@ The very popular programming language Python is part of the curriculum at many u
 ### Contents
 
 #### 1 Überblickund Hilfsmittel
-item 1.1 Inward Bound
-item 1.2 DieElementarteilchen 
-item 1.3 Wirkungsquerschnitteund Zerfallsraten
-item 1.4 Teilchenbeschleuniger 
-item 1.5 Detektoren
-item 1.6 Monte-Carlo-Simulation
-
+<pre>
+1.1 Inward Bound
+1.2 DieElementarteilchen 
+1.3 Wirkungsquerschnitteund Zerfallsraten
+1.4 Teilchenbeschleuniger 
+1.5 Detektoren
+1.6 Monte-Carlo-Simulation
+</pre>
 
 
