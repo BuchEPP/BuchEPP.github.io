@@ -24,15 +24,16 @@ The book is published by Springer with [DOI: 10.1007/978-3-662-67387-4](<https:/
 ### Calculations with python
 The very popular programming language Python is part of the curriculum at many universities. Sympy is a computer algebra programme based on Python. In conjunction with the Jupyter notebook, it provides an elegant framework for computer algebra. Please consult the Python and Jupyter pages to install these programs on your system. On this [GitHub link](<https://github.com/BuchEPP/Buch>) we provide additional material for detailed calculations and solution notes for the exercises. The Python programming is intentionally kept at a simple level so that beginners in programming can get started easily.  
 
+
 ### Contents
 
 #### 1 Überblick und Hilfsmittel
-##### 1.1 Inward Bound
-##### 1.2 DieElementarteilchen 
-##### 1.3 Wirkungsquerschnitteund Zerfallsraten
-##### 1.4 Teilchenbeschleuniger 
-##### 1.5 Detektoren
-##### 1.6 Monte-Carlo-Simulation
+#####     1.1 Inward Bound
+#####     1.2 DieElementarteilchen 
+#####     1.3 Wirkungsquerschnitteund Zerfallsraten
+#####     1.4 Teilchenbeschleuniger 
+#####     1.5 Detektoren
+#####     1.6 Monte-Carlo-Simulation
 
 
 
